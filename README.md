@@ -186,20 +186,26 @@ Server output
 Alt text
 
 Map output
-1.Reliance digital
-Alt text
 
 2.Hotel SRM Grands
-Alt text
+
+![image](https://github.com/thunderantony/places-around-me/assets/149364638/f5ab74e7-dc4d-4d2f-a115-3f44fdcf5579)
+
 
 3.The Temple School
-Alt text
+
+![Uploading image.png…]()
+
 
 4.Rajamangalam police station
-Alt text
+
+![Uploading image.png…]()
+
 
 5.L1 Gaming Cafe
-Alt text
+
+![Uploading image.png…]()
+
 
 Result:
 The program for implementing image map is excuted sucessfully.
