@@ -209,5 +209,5 @@ Server output
 ![image](https://github.com/thunderantony/places-around-me/assets/149364638/a6d5700e-f4c6-4086-82b5-92f6a7e01e72)
 
 
-#Result:
+# Result:
 The program for implementing image map is excuted sucessfully.
