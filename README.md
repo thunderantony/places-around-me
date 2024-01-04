@@ -1,3 +1,4 @@
+Places Around Me
 AIM:
 To develop a website to display details about the places around my house.
 
@@ -183,28 +184,28 @@ my college bus picks me up in temple school bus .
 </html>
 Output:
 Server output
-Alt text
+![image](https://github.com/thunderantony/places-around-me/assets/149364638/a95961c9-a515-42ac-971f-eeadd6962b78)
+
 
 Map output
+1.Reliance digital
+![image](https://github.com/thunderantony/places-around-me/assets/149364638/b1b41c72-77c6-4961-be11-9635b2ea954a)
+
 
 2.Hotel SRM Grands
-
-![image](https://github.com/thunderantony/places-around-me/assets/149364638/f5ab74e7-dc4d-4d2f-a115-3f44fdcf5579)
+![image](https://github.com/thunderantony/places-around-me/assets/149364638/1674f56a-7818-413b-a37f-87ad00c13efb)
 
 
 3.The Temple School
-
-![Uploading image.png…]()
+![image](https://github.com/thunderantony/places-around-me/assets/149364638/ff25e605-03d7-4406-878c-da9f10273efb)
 
 
 4.Rajamangalam police station
-
-![Uploading image.png…]()
+![image](https://github.com/thunderantony/places-around-me/assets/149364638/b6a7946e-4ef2-4943-90e4-4cb00c8a3d95)
 
 
 5.L1 Gaming Cafe
-
-![Uploading image.png…]()
+![image](https://github.com/thunderantony/places-around-me/assets/149364638/a6d5700e-f4c6-4086-82b5-92f6a7e01e72)
 
 
 Result:
