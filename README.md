@@ -1,21 +1,21 @@
-Places Around Me
-AIM:
+# Places Around Me
+## AIM:
 To develop a website to display details about the places around my house.
 
-Design Steps:
-Step 1:
+# Design Steps:
+### Step 1:
 clone the github repository into the IDE
 
-Step 2:
+### Step 2:
 create a django project
 
-Step 3:
+### Step 3:
 write the needed HTML code
 
-Step 4:
+### Step 4:
 run the django server and excute the HTML files
 
-Code:
+# Code:
 map.html
 
 <!DOCTYPE html>
@@ -182,31 +182,31 @@ my college bus picks me up in temple school bus .
 </p>
 </body>
 </html>
-Output:
-Server output
+# Output:
+## Server output
 ![image](https://github.com/thunderantony/places-around-me/assets/149364638/a95961c9-a515-42ac-971f-eeadd6962b78)
 
 
-Map output
-1.Reliance digital
+## Map output
+### 1.Reliance digital
 ![image](https://github.com/thunderantony/places-around-me/assets/149364638/b1b41c72-77c6-4961-be11-9635b2ea954a)
 
 
-2.Hotel SRM Grands
+### 2.Hotel SRM Grands
 ![image](https://github.com/thunderantony/places-around-me/assets/149364638/1674f56a-7818-413b-a37f-87ad00c13efb)
 
 
-3.The Temple School
+### 3.The Temple School
 ![image](https://github.com/thunderantony/places-around-me/assets/149364638/ff25e605-03d7-4406-878c-da9f10273efb)
 
 
-4.Rajamangalam police station
+### 4.Rajamangalam police station
 ![image](https://github.com/thunderantony/places-around-me/assets/149364638/b6a7946e-4ef2-4943-90e4-4cb00c8a3d95)
 
 
-5.L1 Gaming Cafe
+### 5.L1 Gaming Cafe
 ![image](https://github.com/thunderantony/places-around-me/assets/149364638/a6d5700e-f4c6-4086-82b5-92f6a7e01e72)
 
 
-Result:
+#Result:
 The program for implementing image map is excuted sucessfully.
