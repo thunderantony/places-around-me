@@ -182,8 +182,9 @@ my college bus picks me up in temple school bus .
 </p>
 </body>
 </html>
+    
 # Output:
-## Server output
+Server output
 ![image](https://github.com/thunderantony/places-around-me/assets/149364638/a95961c9-a515-42ac-971f-eeadd6962b78)
 
 
